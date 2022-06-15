@@ -1,0 +1,9 @@
+.grid_wrap intro_box{
+
+}
+.grid_wrap intro_box.left{
+    float:left;
+}
+.grid_wrap intro_box.rigth{
+    float:right;
+}
